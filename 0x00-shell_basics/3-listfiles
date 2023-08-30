@@ -1,0 +1,9 @@
+#!/bin/bash
+ls -la "$(total 20
+drwxr-xr-x 2 root root 116 Aug 30 11:20 .
+drwxr-xr-x 4 root root  60 Aug 30 09:41 ..
+-rwxr--r-- 1 root root  16 Aug 30 10:12 0-current_working_directory
+-rwxr--r-- 1 root root  15 Aug 30 11:01 1-listit
+-rwxr--r-- 1 root root  17 Aug 30 11:16 2-bring_me_home
+-rwxr--r-- 1 root root  19 Aug 30 11:20 3-listfiles
+-rw-r--r-- 1 root root  16 Aug 30 10:21 README.md)"
