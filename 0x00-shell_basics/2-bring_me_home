@@ -1,6 +1,2 @@
 #!/bin/bash
-root@efa1285e6fa2:/alx-system_engineering-devops/0x00-shell_basics# pwd
-/alx-system_engineering-devops/0x00-shell_basics
-root@efa1285e6fa2:/alx-system_engineering-devops/0x00-shell_basics# cd ..
-root@efa1285e6fa2:/alx-system_engineering-devops# pwd
-/alx-system_engineering-devops
+cd ~
