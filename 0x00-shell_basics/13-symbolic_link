@@ -1,2 +1,2 @@
 #!/bin/bash
-In /bin/ls
+echo '/bin/ls' > _ls__
